@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ShuklaJt Blogs Now</title>
+    <link>https://shuklajt11.github.io/shuklajt-blogs-now/</link>
+    <description>Recent content on ShuklaJt Blogs Now</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Nov 2025 16:30:29 +0530</lastBuildDate>
+    <atom:link href="https://shuklajt11.github.io/shuklajt-blogs-now/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playground</title>
+      <link>https://shuklajt11.github.io/shuklajt-blogs-now/posts/playground/</link>
+      <pubDate>Thu, 27 Nov 2025 16:30:29 +0530</pubDate>
+      <guid>https://shuklajt11.github.io/shuklajt-blogs-now/posts/playground/</guid>
+      <description>&lt;h3 id=&#34;this-is-my-playground&#34;&gt;This is my playground&lt;/h3&gt;
+&lt;p&gt;Damn&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
