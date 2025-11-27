@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shuklajt11.github.io/shuklajt-blogs-now/sitemap.xml
